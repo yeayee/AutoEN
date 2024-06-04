@@ -8,4 +8,4 @@ Theoretically, videos for learning English can be generated for any mother langu
 # Download
 https://www.alipan.com/s/ffxTzJK5VdD
 
-- python for all
+- 2024-06-04  Xiaan
